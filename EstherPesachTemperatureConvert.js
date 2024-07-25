@@ -51,3 +51,4 @@ rl.on("close", function() {
     process.exit(0);
 });
 
+console.log("practice log");
