@@ -46,7 +46,7 @@ rl.question("To convert a fahrenheit value to celcius enter (f) for a celcius va
             
 });
 console.log("practice log");
-
+console.log("practice log2");
 rl.on("close", function() {
     console.log("Thanks! Come again soon!");
     process.exit(0);
